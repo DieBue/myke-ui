@@ -1,0 +1,11 @@
+{
+  "ROUTE_MY_BIKES": "/api/bikes/by_user",
+  "ROUTE_UPDATE_BIKE": "/api/bikes/",
+  "PARAM_USER_ID": "user_id",
+
+  "STATUS": {
+    "FREE": "FREE",
+    "BOOKED": "BOOKED",
+    "UNAVAILABLE": "UNAVAILABLE"
+  }
+}
